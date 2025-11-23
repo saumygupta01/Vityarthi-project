@@ -50,8 +50,9 @@ The Library Management System is a simple Python-based application that helps ma
    
 
 ==> Screenshots
-<img width="667" height="390" alt="Screenshot 2025-11-23 183539" src="https://github.com/user-attachments/assets/184f14db-32d8-4254-9918-bbffc477c2cd" />
-<img width="325" height="363" alt="Screenshot 2025-11-23 183609" src="https://github.com/user-attachments/assets/f<img width="354" height="274" alt="Screenshot 2025-11-23 183649" src="https://github.com/user-attachments/assets/02330907-6548-471e-be53-1e7150041a86" />
-f70d146-a974-4de1-a303-0b91e424d584" />
-<img width="358" height="282" alt="Screenshot 2025-11-23 183718" src="https://github.com/user-attachments/assets/637aaef5-a29a-4f2a-a60d-400cfc361697" />
-<img width="305" height="202" alt="Screenshot 2025-11-23 183731" src="https://github.com/user-attachments/assets/7652c23e-5511-4d57-a013-a2368bd53284" />
+
+<img width="667" height="390" alt="Screenshot 2025-11-23 183539" src="https://github.com/user-attachments/assets/7d8f4c5f-5ea8-426e-961d-e79124d58f37" />
+<img width="325" height="363" alt="Screenshot 2025-11-23 183609" src="https://github.com/user-attachments/assets/933ceeb4-fb86-4440-80a9-a7b587edcd87" />
+<img width="354" height="274" alt="Screenshot 2025-11-23 183649" src="https://github.com/user-attachments/assets/9928b075-19c8-421c-bb29-8e8c31ff6d5c" />
+<img width="358" height="282" alt="Screenshot 2025-11-23 183718" src="https://github.com/user-attachments/assets/94c62f12-f3c0-47ad-8238-505774b3e36b" />
+<img width="305" height="202" alt="Screenshot 2025-11-23 183731" src="https://github.com/user-attachments/assets/b8816b69-0232-49de-b972-b8d55adddd25" />
