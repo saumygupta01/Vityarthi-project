@@ -1,4 +1,4 @@
-# Vityarthi-project
+# LIBRARY MANAGEMENT SYSTEM
 => Project Title
 Library Management System 
 
